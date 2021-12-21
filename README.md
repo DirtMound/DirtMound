@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DirtMound
 - 👀 I’m interested in Software Development and Game Design
 - 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on games
+- 💞️ I’m looking to collaborate on Discord Bots
 - 📫 How to reach me aidenhill04@gmail.com
 
 <!---
